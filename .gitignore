@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtualenvs
+.venv/
+venv/
+env/
+ENV/
+
+# Environment
+.env
+.env.local
+
+# Downloads / runtime artifacts
+downloads/
+*.mp4
+*.m4a
+*.webm
+*.mp3
+*.part
+*.ytdl
+*.log
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
